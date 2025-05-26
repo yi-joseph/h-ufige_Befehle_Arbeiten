@@ -1,0 +1,6 @@
+# 1
+#Feiertage in Outlook hinzufügen: 
+"Datei" -> "Optionen" -> "Kalender" -> "Kalenderoptionen: " 
+-> "Feiertage in Kalender eintragen:" -> "Feiertage hinzufügen" -> "Deutschland" -> "OK"
+dann fertig.
+
