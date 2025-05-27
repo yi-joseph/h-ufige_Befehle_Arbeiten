@@ -4,3 +4,8 @@
 -> "Feiertage in Kalender eintragen:" -> "Feiertage hinzufügen" -> "Deutschland" -> "OK"
 dann fertig.
 
+# 2
+# Outlook sendet automatische eine Email.
+# Deaktivieren. 
+"Datei" -> "Automatische Antworten" (rechts mitte) -> "Deaktivieren"
+dann fertig. 
