@@ -1,0 +1,12 @@
+# 1 
+# Mühe in C:\ löschen
+wwindos + r -> %temp%
+# alle Dateien da löschen. 
+# Pewershell:
+ Get-ChildItem "$env:LOCALAPPDATA\Temp" -Directory -Filter "*.tmp.dir" | Remove-Item -Recurse -Force
+# Aber hier gibt es einen Bug, ich kann die Dateien nicht löschen. 
+
+# 2
+# Datenträger in C:\ löschen
+windows + r -> cleanmgr sagerun
+
