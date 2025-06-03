@@ -10,3 +10,9 @@ wwindos + r -> %temp%
 # Datenträger in C:\ löschen
 windows + r -> cleanmgr sagerun
 
+# 3
+# man kann den häufig verwendbaren Ordner von freigegebenen Laufwerk einfach in Desktop verlinken:
+einen Ordner auswählen -> alt -> verschieben
+# fertig
+
+
