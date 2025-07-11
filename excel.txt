@@ -1,0 +1,14 @@
+# 1 
+Zeile, eine blau eine weise:
+	Wähle die Zeilen, dann
+	Start -> "Bedingte Formartierung" -> "Neue Regel" -> "Formel zur Ermittlung der zu formatierenden Zeilen verwenden" -> "Werte formatieren, …" -> =REST(ZEILE();2)=0  -> "Formatieren" -> z.B. Blau wählen
+	
+# 2 
+Exceldatenbank erstellen: 
+	Code:
+	=SUMMEWENN(Tabelle1!A2:A12;"="&A2;Tabelle1!D3:D12)
+	Aber die Voraussetzung ist nur eine Mappe (hier "Tabelle1" als eine gemeinsame Datenbank).
+	
+# 3
+Wochentag anzeigen:
+=WOCHENTAG(A2)
